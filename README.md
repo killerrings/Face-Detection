@@ -13,4 +13,5 @@ git clone https://github.com/killerrings/Face-Detection.git
 • Please do ⭐ the repository, if it helped you
 
 • A glimpse of the web app:<br>
+
 ![](demo.gif)
